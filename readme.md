@@ -108,3 +108,16 @@ def mouse_clicked():
 ```
 **kwargs
 ```
+
+SKETCHES
+---
+
+Praticando o que foi visto no curso...
+
+- first.py
+
+<img src="./first.gif" width="300">
+
+- square.py
+
+<img src="./square_2.gif" width="300">
