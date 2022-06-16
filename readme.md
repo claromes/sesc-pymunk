@@ -1,4 +1,4 @@
-# Desenvolvimento de Simulações Físicas 2D - SESC Av. Paulista
+# Desenvolvimento de Simulações Físicas 2D - Sesc Av. Paulista
 
 AULA 01
 ---
