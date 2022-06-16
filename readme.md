@@ -79,13 +79,14 @@ Criação de soft-body
 Ref: https://github.com/villares/sketch-a-day/blob/main/2022/sketch_2022_04_07pymunk/sketch_2022_04_07pymunk.py
 
 
-AULA 05 e 06
+AULAS 05 e 06
 ---
 
 Projeto final - Pinball
 
-https://github.com/villares/pymunk-pinball-paulista
+Turma: https://github.com/villares/pymunk-pinball-paulista
 
+Meu fork: https://github.com/claromes/pymunk-pinball-paulista
 
 EXTRAS
 ---
