@@ -29,7 +29,11 @@ Revisão de como iniciar uma simulação com Pymunk
 
 - arquivo de aula: ex_aula02.py
 
-- snippet: pm_snippet_thonny.py
+<img src="./ex_aula02.gif" width="300">
+
+Configuração básica:
+
+- snippet: pm_snippet_thonny.py/ pm_snippet_thonny_test.py
 
 ```
 1. import lib
@@ -60,6 +64,8 @@ Revisão de como iniciar uma simulação com Pymunk
     c. simulation
         ca. space.step
 ```
+
+<img src="./pm_snippet_thonny_test.gif" width="300">
 
 AULA 03
 ---
